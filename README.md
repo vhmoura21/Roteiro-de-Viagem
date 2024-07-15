@@ -1,2 +1,5 @@
 # Roteiro de Viagem
- NLW-Journey
+
+NLW-Journey
+
+Domingo, 14/07/2024
